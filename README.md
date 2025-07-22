@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hola, soy Juan David 👋
 
-<!--
-**juserranor/juserranor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 Soy estudiante de ingeniería de sistemas
+- 🏀 Apasionado por el deporte y el aprendizaje
+- 🤔 Interesado en el software libre y los sistemas linux
 
-Here are some ideas to get you started:
+## Tecnologías 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Lenguajes:** C/C++, python, javascript, SQL
+- **Backend:** Node
+- **Frontend:** React, CSS, HTML, OpenGL
+- **Otros:** Electron, Git
+
+## Contacto ✉️
+- **Email:** [juserranor@unal.edu.co](mailto:juserranor@unal.edu.co)
